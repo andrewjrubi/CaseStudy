@@ -1,5 +1,4 @@
-# CaseStudy-RUBI
-# TITLE
+# FinTech Case Study HW - RUBI
 
 ## Overview and Origin
 
