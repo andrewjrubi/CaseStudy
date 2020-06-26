@@ -5,25 +5,20 @@
 ![Empower.eco logo](https://empower.eco/assets/update-before-christmas/logo.svg)
 
 * Name of company: 
-
-Empower.eco
+  * Empower.eco
 
 * When was the company incorporated? 
-
-January 2018
+  * January 2018
 
 * Who are the founders of the company?
-
-Wilhelm Myrer (CEO/Founder)
-Gjermund Bjaanes (CTO/Founder)
+  * Wilhelm Myrer (CEO/Founder)
+  * Gjermund Bjaanes (CTO/Founder)
 
 * How did the idea for the company (or project) come about?
-
-Based on the idea of using new technology to enable a circular economy Empower was created with the vision to empower people to create a cleaner and better world. Empower is building a global plastic waste ecosystem based on the same philosophy as the Norwegian bottle deposit system. By giving plastic waste a value they plan to both stop leakage of plastic into the environment, and cost-efficiently incentivize collection of leaked waste. By tracking it and making digital inventories, Empower also ensures that the most of it is reused and recycled. [Empower.eco](empower.eco/about)
+  * Based on the idea of using new technology to enable a circular economy Empower was created with the vision to empower people to create a cleaner and better world. Empower is building a global plastic waste ecosystem based on the same philosophy as the Norwegian bottle deposit system. By giving plastic waste a value they plan to both stop leakage of plastic into the environment, and cost-efficiently incentivize collection of leaked waste. By tracking it and making digital inventories, Empower also ensures that the most of it is reused and recycled. [Empower.eco](empower.eco/about)
 
 * How is the company funded? How much funding have they received?
-
-Angel investor seed funding announced 18 Oct 2018. Ammount received undisclosed. Investing round led by TheFactory, a premier Nordic fintech and proptech accelerator and incubator. [Crunchbase](https://www.crunchbase.com/funding_round/empower-angel--16917d57#section-investors)
+  * Angel investor seed funding announced 18 Oct 2018. Ammount received undisclosed. Investing round led by TheFactory, a premier Nordic fintech and proptech accelerator and incubator. [Crunchbase](https://www.crunchbase.com/funding_round/empower-angel--16917d57#section-investors)
 
 ## Business Activities:
 
@@ -38,15 +33,15 @@ More than $10 billion of bulk value plastic waste ends up in nature every year. 
 
 Empower provides varies plans to companies seeking to reduce their plastic footprint, these plans fund Empower's waste management projects - funding low income country plastic recovery and recycling, while creating local jobs and financial growth.
 
-### Programs
+**Programs**
 
-Plastic Positive Company Plan
+1. Plastic Positive Company Plan
 * $5/month per employee. Enables company to state their 'green impact' and allows employees to follow which projects their contributions support through Empower's system.
 
-Product-Impact Plan
+2. Product-Impact Plan
 * Pricing varies with scope of company partnership with Empower. Plan is intended to support companies looking for a method to offset their production plastic footprint.
 
-Customise Service Plan
+3. Customise Service Plan
 * Pricing varies with scope of plan. This plan is intended to draw innovation and pilot projects with companies that want to coordinate plastic waste solutions that go beyond the scope of the pervious two plans.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
