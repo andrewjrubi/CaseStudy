@@ -2,19 +2,28 @@
 
 ## Overview and Origin
 
-* Name of company: Empower.eco
+![Empower.eco logo](https://empower.eco/assets/update-before-christmas/logo.svg)
 
-* When was the company incorporated? January 2018
+* Name of company: 
+
+Empower.eco
+
+* When was the company incorporated? 
+
+January 2018
 
 * Who are the founders of the company?
+
 Wilhelm Myrer (CEO/Founder)
 Gjermund Bjaanes (CTO/Founder)
 
 * How did the idea for the company (or project) come about?
-Based on the idea of using new technology to enable a circular economy Empower was founded in January 2018 with a vision to empower people to create a cleaner and better world. Empower is building a global plastic waste ecosystem based on the same philosophy as the Norwegian bottle deposit system. By giving plastic waste a value we can both stop leakage of plastic into the environment and cost-efficiently incentivize collection of leaked waste. By tracking it and making digital inventories we also ensure that the most of it is reused and recycled. (empower.eco/about)
+
+Based on the idea of using new technology to enable a circular economy Empower was founded in January 2018 with a vision to empower people to create a cleaner and better world. Empower is building a global plastic waste ecosystem based on the same philosophy as the Norwegian bottle deposit system. By giving plastic waste a value we can both stop leakage of plastic into the environment and cost-efficiently incentivize collection of leaked waste. By tracking it and making digital inventories we also ensure that the most of it is reused and recycled. [Empower.eco](empower.eco/about)
 
 * How is the company funded? How much funding have they received?
-Angel investor seed funding announced 18 Oct 2018. Ammount received undisclosed. Investing round led by TheFactory, a premier Nordic fintech and proptech accelerator and incubator. (https://www.crunchbase.com/funding_round/empower-angel--16917d57#section-investors)
+
+Angel investor seed funding announced 18 Oct 2018. Ammount received undisclosed. Investing round led by TheFactory, a premier Nordic fintech and proptech accelerator and incubator. [Crunchbase](https://www.crunchbase.com/funding_round/empower-angel--16917d57#section-investors)
 
 ## Business Activities:
 
@@ -38,7 +47,7 @@ Vestre and Empower are planning to run a pilot for micro loans secured by plasti
 During the new pilot, plastic will be collected and delivered to the collection point and the plastic collectors who register their deposit in the Empower App will build up a revenue track record and credit score. This score together with the digital tokens that they earn in return for the collected plastic will enable local entrepreneurs to get access to micro loans, that are repayable in plastic waste.
 
 Empower will provide the digital solution while Vestre is funding the initial credit facility. The joint goal is to empower local entrepreneurs with the resources to create new jobs and new businesses while keep incentivizing efficient and transparent clean-up of plastic waste.
-(https://medium.com/empowerplastic/vestre-empower-micro-loans-2ccc9e261755)
+[Medium/EmpowerPlastic](https://medium.com/empowerplastic/vestre-empower-micro-loans-2ccc9e261755)
 
 * What are the other major companies in this domain?
 
