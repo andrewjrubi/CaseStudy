@@ -19,7 +19,7 @@ Gjermund Bjaanes (CTO/Founder)
 
 * How did the idea for the company (or project) come about?
 
-Based on the idea of using new technology to enable a circular economy Empower was founded in January 2018 with a vision to empower people to create a cleaner and better world. Empower is building a global plastic waste ecosystem based on the same philosophy as the Norwegian bottle deposit system. By giving plastic waste a value we can both stop leakage of plastic into the environment and cost-efficiently incentivize collection of leaked waste. By tracking it and making digital inventories we also ensure that the most of it is reused and recycled. [Empower.eco](empower.eco/about)
+Based on the idea of using new technology to enable a circular economy Empower was created with the vision to empower people to create a cleaner and better world. Empower is building a global plastic waste ecosystem based on the same philosophy as the Norwegian bottle deposit system. By giving plastic waste a value they plan to both stop leakage of plastic into the environment, and cost-efficiently incentivize collection of leaked waste. By tracking it and making digital inventories, Empower also ensures that the most of it is reused and recycled. [Empower.eco](empower.eco/about)
 
 * How is the company funded? How much funding have they received?
 
@@ -29,10 +29,35 @@ Angel investor seed funding announced 18 Oct 2018. Ammount received undisclosed.
 
 * What specific financial problem is the company or project trying to solve?
 
+Empower is trying to solve the issues of growing plastic waste by financially incentivizing the collection and delivery of plastics to their partner recycling stations. 
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+More than $10 billion of bulk value plastic waste ends up in nature every year. Feeding plastic waste into the circular economy and creating recycled products, meanwhile, could have a potential value of $50 billion. Empower’s system has been piloted in 10 countries. The company has already established permanent recycling stations in and agreements with several countries as well. [Forbes-The Explorer](https://www.theexplorer.no/solutions/empower-blockchain-powered-plastic-waste-collection/)
+
+Empower provides varies plans to companies seeking to reduce their plastic footprint, these plans fund Empower's waste management projects - funding low income country plastic recovery and recycling, while creating local jobs and financial growth.
+
+### Programs
+
+Plastic Positive Company Plan
+* $5/month per employee. Enables company to state their 'green impact' and allows employees to follow which projects their contributions support through Empower's system.
+
+Product-Impact Plan
+* Pricing varies with scope of company partnership with Empower. Plan is intended to support companies looking for a method to offset their production plastic footprint.
+
+Customise Service Plan
+* Pricing varies with scope of plan. This plan is intended to draw innovation and pilot projects with companies that want to coordinate plastic waste solutions that go beyond the scope of the pervious two plans.
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Empower uses a blockchain-enabled system that allows people to exchange plastic waste for tokens. These tokens can then be exchanged for local currency or be used to pay for plastic clean-up in other locations.
+
+The system lets anyone deliver plastic waste at certified recycling stations. Blockchain technology ensures that tokens for plastic are securely awarded and used. The plastic waste is digitally registered at collection, allowing for a transparent and traceable waste management system where everyone can see where the collected plastic ends up.
+
+Empower is working to pilot the waste tracking component with plastic waste collectors, waste management companies and buyers of recycled plastic in order to fully implement the system. [Forbes-The Explorer](https://www.theexplorer.no/solutions/empower-blockchain-powered-plastic-waste-collection/)
+
+
 
 
 ## Landscape:
@@ -42,7 +67,7 @@ What solution does this company offer that their competitors do not or cannot of
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 Plastic Based Micro-Loans
-Vestre and Empower are planning to run a pilot for micro loans secured by plastic waste collection. The pilot project will take place in Laos in cooperation with Aay’s Village, an NGO that is already running an Empower collection point in the jungle village with pretty amazing results. Cleaning up more than 50 000 bottles in two months!
+Vestre and Empower are planning to run a pilot for micro loans secured by plastic waste collection. The pilot project will take place in Laos in cooperation with Aay’s Village, an NGO that is already running an Empower collection point in the jungle village with pretty amazing results. Cleaning up more than 50,000 bottles in two months.
 
 During the new pilot, plastic will be collected and delivered to the collection point and the plastic collectors who register their deposit in the Empower App will build up a revenue track record and credit score. This score together with the digital tokens that they earn in return for the collected plastic will enable local entrepreneurs to get access to micro loans, that are repayable in plastic waste.
 
