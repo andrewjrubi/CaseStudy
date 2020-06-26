@@ -32,14 +32,13 @@ What solution does this company offer that their competitors do not or cannot of
 
 **Programs**
 
-1. Plastic Positive Company Plan
-* $5/month per employee. Enables company to state their 'green impact' and allows employees to follow which projects their contributions support through Empower's system.
+1. Plastic Positive Company Plan: $5/month per employee. Enables a company to state their 'green impact' and allows employees to follow which projects their contributions support through Empower's system.
 
-2. Product-Impact Plan
-* Pricing varies with scope of company partnership with Empower. Plan is intended to support companies looking for a method to offset their production plastic footprint.
+2. Product-Impact Plan: Pricing varies with scope of a company's partnership with Empower. Plan is intended to support companies looking for a method to offset their production plastic footprint.
 
-3. Customise Service Plan
-* Pricing varies with scope of plan. This plan is intended to draw innovation and pilot projects with companies that want to coordinate plastic waste solutions that go beyond the scope of the pervious two plans.
+3. Customise Service Plan: Pricing varies with scope of plan. This plan is intended to draw innovation and pilot projects with companies that want to coordinate plastic waste solutions that go beyond the scope of the pervious two plans.
+
+4. Individual Contributions: Individuals can contribute directly to Empower to support plasitc waste collection programs and offset their own personnal plastic footprint. Categories include Plastic Neutral ($3), Plastic Positive ($5), Plastic Hero ($10) and other custom ammont allocated as a monthly or one time contribution.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
    * Empower uses a blockchain-enabled system that allows people to exchange plastic  waste for tokens. These tokens can then be exchanged for local currency or be used to pay for plastic clean-up in other locations.
