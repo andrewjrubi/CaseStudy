@@ -39,7 +39,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 3. Customise Service Plan: Pricing varies with scope of plan. This plan is intended to draw innovation and pilot projects with companies that want to coordinate plastic waste solutions that go beyond the scope of the previous two plans.
 
-4. Individual Contributions: Individuals can contribute directly to Empower to support plastic waste collection programs and offset their own personal plastic footprint. Categories include Plastic Neutral ($3), Plastic Positive ($5), Plastic Hero ($10) and other custom amount allocated as a monthly or one time contribution.
+4. Individual Contributions: Individuals can contribute directly to Empower to support plastic waste collection programs and offset their own personal plastic footprint. Categories include Plastic Neutral ($3), Plastic Positive ($5), Plastic Hero ($10) and other custom amounts allocated as a monthly or one time contribution.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
   * Empower uses a blockchain-enabled system that allows people to exchange plastic  waste for tokens. These tokens can then be exchanged for local currency or be used to pay for plastic clean-up in other locations.
@@ -52,7 +52,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
   * **Plastic Based Micro-Loans:**
-  * Vestre and Empower are planning to run a pilot for micro loans secured by plastic waste collection. Vestre is a Scandinavian industrial company that focuses on developing and manufacturing sustainable design furniture for private and public urban environments. The pilot project will take place in Laos in cooperation with Aay’s Village, an NGO that is already running an Empower collection point in the jungle village successful results - cleaning up more than 50,000 bottles in two months.
+  * Vestre and Empower are planning to run a pilot for micro loans secured by plastic waste collection. Vestre is a Scandinavian industrial company that focuses on developing and manufacturing sustainable design furniture for private and public urban environments. The pilot project will take place in Laos in cooperation with Aay’s Village, an NGO that is already running an Empower collection point in the jungle village with successful results - cleaning up more than 50,000 bottles in two months.
   * During the new pilot, plastic will be collected and delivered to the collection point and the plastic collectors who register their deposit in the Empower App will build up a revenue track record and credit score. This score together with the digital tokens that they earn in return for the collected plastic will enable local entrepreneurs to get access to micro loans that are repayable in plastic waste.
   * Empower will provide the digital solution while Vestre is funding the initial credit facility. The joint goal is to empower local entrepreneurs with the resources to create new jobs and new businesses while keeping incentivizing efficient and transparent clean-up of plastic waste.
 [Medium/EmpowerPlastic](https://medium.com/empowerplastic/vestre-empower-micro-loans-2ccc9e261755)
